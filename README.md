@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I'am Anshul
-![Profile views](https://komarev.com/ghpvc/?username=anshulrajput9238&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=anshulrajput9238&color=red)
 
 
 - 🔭 I’m currently working c and c++ projects 
