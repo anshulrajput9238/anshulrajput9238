@@ -3,11 +3,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=anshulrajput9238&color=orange)
 
 
-🔭 I’m currently working on Python, SQl, EDA, ML Projects, NLP, LLMS
+🔭 I’m currently working on C, C++, DSA
 
 🌱 I’m currently learning Machine Learning, Deep Learning
 
-👨‍💻 All of my projects are available at 
+👨‍💻 All of my projects are available at [https://github.com/anshulrajput9238?tab=projects]
 
 📄 Know about my experiences [ https://www.linkedin.com/in/anshul-rajput-97b993373/ ]
 
