@@ -1,5 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Anshul+Rajput;C+%7C+C%2B%2B+Developer;Data+Structures+%26+Algorithms;Welcome+to+My+Colorful+GitHub!;Always+Learning+%F0%9F%94%A5" />
+  <span style="color:#00aaff;">H</span>
+  <span style="color:#33bbff;">e</span>
+  <span style="color:#55ccff;">l</span>
+  <span style="color:#77ddff;">l</span>
+  <span style="color:#99eeff;">o</span>
+  👋
+  <span style="color:#00ffaa;"> I'</span>
+  <span style="color:#33ffcc;">m</span>
+  <span style="color:#66ff99;"> Anshul</span>
+  <span style="color:#99ff66;"> Rajput</span>
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshulrajput9238&label=Visitors&color=0e75b6&style=plastic)
