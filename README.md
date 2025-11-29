@@ -34,14 +34,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anshulrajput9238&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulrajput9238&layout=compact&theme=radical" height="160"/>
 </p>
-
 ---
 
 ## 🔥 *GitHub Streak (Gradient Theme)*
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulrajput9238&theme=neon-palenight" height="180">
+  <img src="https://streak-stats.demolab.com?user=anshulrajput9238&theme=neon-palenight" height="180"/>
 </p>
-
 ---
 
 ## 🏆 *Achievements (Multi-Color Badges)*
