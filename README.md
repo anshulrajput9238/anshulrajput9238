@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Anshul+Rajput;C+%7C+C%2B%2B+Developer;Data+Structures+%26+Algorithms;Welcome+to+My+Colorful+GitHub!;Always+Learning+%F0%9F%94%A5" />
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=anshulrajput9238&label=Visitors&color=0e75b6&style=plastic)
+
 ---
 
 ## 🎨 *About Me*
