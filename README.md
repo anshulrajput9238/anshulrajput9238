@@ -60,7 +60,7 @@
 ## 🌐 *Connect with Me*
 <p align="center">
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://linkedin.com/anshulrajput9238"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.linkedin.com/in/anshulrajput9238/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
 </p>
 
