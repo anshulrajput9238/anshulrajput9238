@@ -41,10 +41,7 @@
 ---
 
 ## 📊 *GitHub Stats (Colorful Mode)*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulrajput9238&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulrajput9238&layout=compact&theme=radical" height="160"/>
-</p>
+![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulrajput9238&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔥 *GitHub Streak (Gradient Theme)*
