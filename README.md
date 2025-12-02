@@ -10,8 +10,7 @@
   <span style="color:#66ff99;"> Anshul</span>
   <span style="color:#99ff66;"> Rajput</span>
 </h1>
-<h1 align="center">
-  <span style="color:#00aaff;">1 Month Holiday</span>
+
   
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshulrajput9238&label=Visitors&color=0e75b6&style=plastic)
