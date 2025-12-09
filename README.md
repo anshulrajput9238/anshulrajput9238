@@ -16,9 +16,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=anshulrajput9238&label=Visitors&color=0e75b6&style=plastic)
 
 ---
-
 ## 🎨 *About Me*
-- 🚀 Passionate C & C++ Developer  
+- 🚀 Passionate  C++ & Python Developer 
 - 🔧 Strong in DSA & Problem Solving  
 - 🌟 Love building mini-games & console projects  
 - 💡 Always learning something new  
