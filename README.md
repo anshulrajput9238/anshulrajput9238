@@ -17,11 +17,10 @@
 
 ---
 ## 🎨 *About Me*
-- 🚀 Passionate  C++ & Python Developer 
+- 🚀  I’m currently working on C++, Python, SQl, EDA, ML Projects, NLP, LLMS
+- 🌱 I’m currently learning Machine Learning, Deep Learning
 - 🔧 Strong in DSA & Problem Solving  
-- 🌟 Love building mini-games & console projects  
-- 💡 Always learning something new  
-- 🌈 Believer in colorful creativity
+- 
 - 🌟 Hackerrank - ["https://www.hackerrank.com/anshulrajput2621"] 
 
 ---
