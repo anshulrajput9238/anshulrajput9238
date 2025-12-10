@@ -21,7 +21,8 @@
 - 🔧 Strong in DSA & Problem Solving  
 - 🌟 Love building mini-games & console projects  
 - 💡 Always learning something new  
-- 🌈 Believer in colorful creativity  
+- 🌈 Believer in colorful creativity
+- 🌟 Hackerrank - ["https://www.hackerrank.com/anshul_rajput2626"] 
 
 ---
 
