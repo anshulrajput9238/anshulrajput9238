@@ -34,6 +34,9 @@
 ---
 
 ## 🚀 *Projects*
+### 🧠🤖💚 AI for Mental Wellness
+👉 https://github.com/anshulrajput9238/AI-for-mental-wellness
+
 ### 🎮 Tic-Tac-Toe (AI + Normal Mode)
 👉 https://github.com/anshulrajput9238/Tik-tak-toe
 
