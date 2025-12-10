@@ -63,6 +63,7 @@
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
   <a href="https://www.linkedin.com/in/anshul-rajput-97b993373"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
+  <a href="https://www.hackerrank.com/profile/anshulrajput2621"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
 </p>
 
 ---
