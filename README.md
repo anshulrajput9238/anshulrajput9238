@@ -1,11 +1,5 @@
-<h1 align="center">
-  Hello
-  👋
-  <span style="color:#00ffaa;"> I'</span>
-  <span style="color:#33ffcc;">m</span>
-  <span style="color:#66ff99;"> Anshul</span>
-  <span style="color:#99ff66;"> Rajput</span>
-</h1>
+
+  Hello 👋 I'm Anshul Rajput 
 
   
 
