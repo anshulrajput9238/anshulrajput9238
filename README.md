@@ -1,9 +1,5 @@
 <h1 align="center">
-  H
-  e
-  l
-  l
-  o
+  Hello
   👋
   <span style="color:#00ffaa;"> I'</span>
   <span style="color:#33ffcc;">m</span>
