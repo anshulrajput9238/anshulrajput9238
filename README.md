@@ -19,9 +19,9 @@
 ---
 ## 🎨 *About Me*
 - 🚀  I’m currently working on C++, Python.
-- 👨‍💻 All of my projects are available at [https://github.com/anshulrajput9238]
-- 📄 Know about my experiences [https://www.linkedin.com/in/anshul-rajput-97b993373]
-- 📫 My Email Address [anshulrajput262006@gmail.com]
+- 👨‍💻 All of my projects are available at ["https://github.com/anshull-rajput"]
+- 📄 Know about my experiences ["https://www.linkedin.com/in/anshull-rajput"]
+- 📫 My Email Address ["anshulrajput262006@gmail.com"]
 - 🌟 Hacker Rank - ["https://www.hackerrank.com/anshulrajput2621"] 
 
 ---
