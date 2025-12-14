@@ -14,7 +14,7 @@
 
   
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshulrajput9238&label=Visitors&color=0e75b6&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=anshull-rajput&label=Visitors&color=0e75b6&style=plastic)
 
 ---
 ## 🎨 *About Me*
@@ -35,26 +35,26 @@
 
 ## 🚀 *Projects*
 ### 🎮 Tic-Tac-Toe (AI + Normal Mode)
-👉 https://github.com/anshulrajput9238/Tik-tak-toe
+👉 https://github.com/anshull-rajput/Tik-tak-toe
 
 ### 🐍 Snake Game (C++)
-👉 https://github.com/anshulrajput9238/My-Graphics-Project
+👉 https://github.com/anshull-rajput/My-Graphics-Project
 
 ---
 
 ## 📊 *GitHub Stats (Colorful Mode)*
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulrajput9238&show_icons=true&theme=tokyonight)
+![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔥 *GitHub Streak (Gradient Theme)*
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshulrajput9238&theme=neon-palenight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=anshull-rajput&theme=neon-palenight" height="180"/>
 </p>
 ---
 
 ## 🏆 *Achievements (Multi-Color Badges)*
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshulrajput9238&theme=rainbow&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=rainbow&margin-w=10&column=6" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🌐 *Connect with Me*
 <p align="center">
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://www.linkedin.com/in/anshul-rajput-97b993373"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.linkedin.com/in/anshull-rajput"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
   <a href="https://www.hackerrank.com/anshulrajput2621" target="_blank">
   <img src="https://skillicons.dev/icons?i=hackerrank" height="45" alt="HackerRank"/>
