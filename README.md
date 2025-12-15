@@ -40,6 +40,9 @@
 ### 🐍 Snake Game (C++)
 👉 https://github.com/anshull-rajput/My-Graphics-Project
 
+### 🧠 Number Guessing Game (Python)
+👉https://github.com/anshull-rajput/Number-Guessing-Game
+
 ---
 
 ## 📊 *GitHub Stats (Colorful Mode)*
