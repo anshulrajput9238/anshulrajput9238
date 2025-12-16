@@ -1,14 +1,5 @@
 <h1 align="center">
-  <span style="color:#00aaff;">H</span>
-  <span style="color:#33bbff;">e</span>
-  <span style="color:#55ccff;">l</span>
-  <span style="color:#77ddff;">l</span>
-  <span style="color:#99eeff;">o</span>
-  👋
-  <span style="color:#00ffaa;"> I'</span>
-  <span style="color:#33ffcc;">m</span>
-  <span style="color:#66ff99;"> Anshul</span>
-  <span style="color:#99ff66;"> Rajput</span>
+  Hello 👋 I'm Anshul Rajput 
 </h1>
 
 
