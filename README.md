@@ -41,7 +41,7 @@
 👉 https://github.com/anshull-rajput/My-Graphics-Project
 
 ### 🧠 Number Guessing Game (Python)
-👉https://github.com/anshull-rajput/Number-Guessing-Game
+👉 https://github.com/anshull-rajput/Number-Guessing-Game
 
 ---
 
