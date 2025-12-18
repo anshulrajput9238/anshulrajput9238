@@ -1,21 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=👋%20I'm%20Anshul%20Rajput&fontSize=40&fontAlignY=35&desc=%20Welcome%20to%20%my%20Profile&descAlignY=55" />
 </p>
 
-<h1 align="center">
-  <span style="color:#00aaff;">H</span>
-  <span style="color:#33bbff;">e</span>
-  <span style="color:#55ccff;">l</span>
-  <span style="color:#77ddff;">l</span>
-  <span style="color:#99eeff;">o</span>
-  👋
-  <span style="color:#00ffaa;"> I'</span>
-  <span style="color:#33ffcc;">m</span>
-  <span style="color:#66ff99;"> Anshul</span>
-  <span style="color:#99ff66;"> Rajput</span>
-</h1>
-
-
-  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshull-rajput&label=Visitors&color=0e75b6&style=plastic)
 
