@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🎯%20I'm%20Anshul%20Rajput&fontSize=40&fontAlignY=35&desc=Test%20Your%20Logic%20%7C%20Have%20Fun%20%7C%20Learn%20C➕➕&descAlignY=55" />
+</p>
+
 <h1 align="center">
   <span style="color:#00aaff;">H</span>
   <span style="color:#33bbff;">e</span>
