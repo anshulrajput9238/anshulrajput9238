@@ -39,13 +39,13 @@
 
 ## 🔥 *GitHub Streak (Gradient Theme)*
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=anshull-rajput&theme=neon-palenight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=anshull-rajput&theme=neon-palenight" height="180"/>
 </p>
 ---
 
 ## 🏆 *Achievements (Multi-Color Badges)*
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshull-rajput&theme=rainbow&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?user=anshull-rajput&theme=rainbow&margin-w=10&column=6" />
 </p>
 
 ---
