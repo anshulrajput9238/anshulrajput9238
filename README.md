@@ -34,7 +34,7 @@
 ---
 
 ## 📊 *GitHub Stats (Colorful Mode)*
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight)
+![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?user=anshull-rajput&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔥 *GitHub Streak (Gradient Theme)*
