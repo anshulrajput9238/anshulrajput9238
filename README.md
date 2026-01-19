@@ -39,8 +39,11 @@
 
 ## 🔥 *GitHub Streak (Gradient Theme)*
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshull-rajput&theme=neon-palenight" height="180"/>
+  <img src="https://streak-stats.demolab.com?username=anshull-rajput&theme=neon-palenight" height="180"/>
 </p>
+![Anshul's GitHub streak](https://github-readme-streak.vercel.app/api?username=anshull-rajput&show_icons=true&theme=tokyonight)
+---
+
 ---
 
 ## 🏆 *Achievements (Multi-Color Badges)*
