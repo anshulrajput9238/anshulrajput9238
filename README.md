@@ -57,7 +57,7 @@
   <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
   <a href="https://www.hackerrank.com/anshulrajput2621" target="_blank">
   <img src="https://skillicons.dev/icons?i=hackerrank" height="45" alt="HackerRank"/>
-</a>
+  </am 
 </p>
 
 ---
